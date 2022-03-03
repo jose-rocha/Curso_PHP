@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="icon" href="./images/mascotePhp.jpeg">
-    <title>Atribuições</title>
+    <title>Variáveis Variáveis</title>
 </head>
 <body>
     <header class="cabecalho">
@@ -105,6 +105,11 @@
                 <li>
                   <a href="exercicio.php?dir=variaveis&file=interpolacao">
                     Interpolação
+                  </a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                    Variáveis Variáveis
                   </a>
                 </li>
               </ul>
