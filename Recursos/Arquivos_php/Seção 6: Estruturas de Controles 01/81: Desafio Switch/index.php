@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="icon" href="./images/mascotePhp.jpeg">
-    <title>Desafio Operadores Lógicos</title>
+    <title>Operador Ternário</title>
 </head>
 <body>
     <header class="cabecalho">
@@ -45,6 +45,21 @@
                 <li>
                   <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
                     Desafio Op. Lógicos
+                  </a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=controle&file=operador_ternario">
+                    Operador Ternário
+                  </a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=controle&file=switch">
+                    Switch
+                  </a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=controle&file=desafio_switch">
+                    Desafio Switch
                   </a>
                 </li>
               </ul>
