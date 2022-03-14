@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="icon" href="./images/mascotePhp.jpeg">
-    <title>$_GET</title>
+    <title>$_POST</title>
 </head>
 <body>
     <header class="cabecalho">
@@ -31,6 +31,7 @@
                 <li><a href="exercicio.php?dir=array&file=multidimensionais">Arrays Multidimensionais</a></li>
                 <li><a href="exercicio.php?dir=array&file=constantes">Arrays Constantes</a></li>
                 <li><a href="exercicio.php?dir=array&file=get">$_GET</a></li>
+                <li><a href="exercicio.php?dir=array&file=post">$_POST</a></li>
               </ul>
             </div>
             <div class="modulo roxo">
