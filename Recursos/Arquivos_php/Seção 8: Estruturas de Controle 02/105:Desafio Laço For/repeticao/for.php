@@ -15,16 +15,7 @@ for(; $cont <= 10; $cont++) {
 echo '<hr>';
 echo '<br>';
 
-$array = [
-  1 =>
-  'Domingo',
-  'Segunda',
-  'Terça',
-  'Quarta',
-  'Quinta',
-  'Sexta',
-  'Sábado'
-];
+$array = [1 => 'Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
 print_r($array);
 
 echo '<br>';

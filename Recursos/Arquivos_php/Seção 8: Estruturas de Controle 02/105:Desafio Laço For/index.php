@@ -23,8 +23,8 @@
                 <h3>6. Repetições</h3>
                 <ul>
                     <li><a href="exercicio.php?dir=repeticao&file=for">Laço For</a></li>
-                    
-                  </ul>
+                    <li><a href="exercicio.php?dir=repeticao&file=desafio_for">Desafio For</a></li>
+                                      </ul>
               </div>
               <div class="modulo laranja">
                 <h3>5. Array</h3>
