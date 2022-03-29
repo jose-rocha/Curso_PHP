@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="icon" href="./images/mascotePhp.jpeg">
-    <title>Desafio Tabela #02</title>
+    <title>Desafio Tabela #01</title>
 </head>
 <body>
     <header class="cabecalho">
@@ -29,7 +29,6 @@
                     <li><a href="exercicio.php?dir=repeticao&file=desafio_impressao">Desafio impressão</a></li>
                     <li><a href="exercicio.php?dir=repeticao&file=while">While/Do While</a></li>
                     <li><a href="exercicio.php?dir=repeticao&file=desafio_tabela">Desafio Tabela #01</a></li>
-                    <li><a href="exercicio.php?dir=repeticao&file=desafio_tabela_02">Desafio Tabela #02</a></li>
                 </ul>
               </div>
               <div class="modulo laranja">
