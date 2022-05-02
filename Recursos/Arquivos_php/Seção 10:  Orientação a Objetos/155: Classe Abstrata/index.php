@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="icon" href="./images/mascotePhp.jpeg">
-    <title>Construtor & Destrutor</title>
+    <title>Classe Abstrata</title>
 </head>
 <body>
     <header class="cabecalho">
@@ -18,13 +18,18 @@
     </header>
     <main class="principal">
         <div class="conteudo">
-           <nav class="modulos"> 
+           <nav class="modulos">
              <div class="modulo azul-escuro">
                <h3>8. Paradigma O.O.</h3>
                <ul>
                 <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classe</a></li>
                 <li><a href="exercicio.php?dir=classes_objetos&file=classe_data">Classe Data</a></li>
                 <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor & Destrutor</a></li>
+                <li><a href="exercicio.php?dir=classes_objetos&file=heranca">Herança</a></li>
+                <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Visibilidade</a></li>
+                <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
+                <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interface</a></li>
+                <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Classe Abstrata</a></li>
                </ul>
              </div>
              <div class="modulo vermelho-escuro">
