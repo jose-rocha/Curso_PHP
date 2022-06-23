@@ -10,7 +10,7 @@
           rel="stylesheet">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="icon" href="./images/mascotePhp.jpeg">
-    <title>Use/As</title>
+    <title>Try/Catch</title>
 </head>
 <body>
     <header class="cabecalho">
