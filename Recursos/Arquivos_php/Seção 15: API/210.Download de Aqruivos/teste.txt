@@ -1,0 +1,3 @@
+Novo conteúdo
+Adicionando depois com o append,
+Adicionado de novo na próxima linha com o append
